@@ -1,7 +1,5 @@
 # 📘 JavaScript – Complete Interview‑Ready Notes (With WHY + HOW)
 
-> **Goal:** শুধু কী হয় না — **কেন হয়** এটা এমনভাবে লেখা, যেন interview‑এ মুখে বলা যায়
-
 ---
 
 ## 1️⃣ Variables & Declarations
@@ -247,13 +245,3 @@ Object reference দিয়ে pass হয়
 * === always
 * Explain **WHY**, not just output
 * Use correct JS terms
-
----
-
-✅ **এই README পড়লে:**
-
-* Concept clear হবে
-* Interview‑এ explain করতে পারবে
-* Last‑day revision perfect হবে
-
-🚀 Copy → Paste → README.md
