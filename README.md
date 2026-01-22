@@ -1,4 +1,4 @@
-# 📘 JavaScript – Complete Interview‑Ready Notes (With WHY + HOW)
+# 📘 JavaScript Notes
 
 ---
 
