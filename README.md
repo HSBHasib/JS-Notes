@@ -237,11 +237,3 @@ Object reference দিয়ে pass হয়
 **Interview line:**
 👉 “Objects are passed by reference, not by value.”
 
----
-
-## 🧠 Final Interview Mindset
-
-* const > let > var
-* === always
-* Explain **WHY**, not just output
-* Use correct JS terms
