@@ -14,7 +14,6 @@ let age = 20;
 const country = "Bangladesh";
 ```
 
----
 
 ### var vs let vs const (🔥 Important Qs for Interview)
 
