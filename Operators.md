@@ -124,3 +124,14 @@ Shorthand for if...else
 
   // Note: typeof null === "object" is a bug, but has existed since the early days of JS.
 ```
+
+
+### ⚡ Important Notes
+```js
+  • Use === instead of == to avoid type bugs.
+  • Use ternary for quick decisions, not complex ones.
+  • Think in truthy/falsy when using && , || , ! .
+  • "5" + 1 is "51" (string concat), but "5" - 1 is 4 (number subtract)
+  • !!value is a quick trick to convert anything into a boolean
+  • Pre-increment ( ++i ) vs post-increment ( i++ ) return different results
+```
