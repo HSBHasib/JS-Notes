@@ -91,6 +91,8 @@ Declaration is moved to the very top of it's scope and Initialization remains ex
 }
 ```
 
+---
+
 ### The JavaScript engine interprets it like this:
 ```js
 // If We Write 
@@ -115,6 +117,7 @@ Declaration is moved to the very top of it's scope and Initialization remains ex
   4:
   5: pi = 3.1416;
 
+---
 
   // Quick Notes:
 
@@ -136,6 +139,7 @@ Declaration is moved to the very top of it's scope and Initialization remains ex
     Access korle ReferenceError dey.
 }
 ```
+---
 
 ### ⏳ What is Temporal Dead Zone (TDZ)?
 
