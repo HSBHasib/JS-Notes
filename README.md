@@ -1,1 +1,1 @@
-# 📘 Core JavaScript Notes
+# 📘 JavaScript Notes
